@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\QLSachApp\bin\Debug\QLSachApp.exe.config
+C:\Users\HP\source\repos\QLSachApp\bin\Debug\QLSachApp.exe
+C:\Users\HP\source\repos\QLSachApp\bin\Debug\QLSachApp.pdb
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.Form1.resources
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.Properties.Resources.resources
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.exe
+C:\Users\HP\source\repos\QLSachApp\obj\Debug\QLSachApp.pdb
