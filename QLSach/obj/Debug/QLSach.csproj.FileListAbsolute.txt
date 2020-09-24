@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\QLSach\bin\Debug\QLSach.exe.config
+C:\Users\HP\source\repos\QLSach\bin\Debug\QLSach.exe
+C:\Users\HP\source\repos\QLSach\bin\Debug\QLSach.pdb
+C:\Users\HP\source\repos\QLSach\obj\Debug\QLSach.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\QLSach\obj\Debug\QLSach.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QLSach\obj\Debug\QLSach.exe
+C:\Users\HP\source\repos\QLSach\obj\Debug\QLSach.pdb
